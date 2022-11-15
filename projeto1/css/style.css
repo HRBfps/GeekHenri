@@ -290,3 +290,11 @@ img {
     border-bottom:2px dashed white;
     color: aliceblue;
   }
+
+  #github {
+    background: linear-gradient(
+      270deg, #0632f7,#ccb5f1
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
