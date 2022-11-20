@@ -243,6 +243,7 @@ img {
   }
 
   p {
+    color: #FFF;
     text-align: center;
     font-size: 1.4em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -298,3 +299,5 @@ img {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  
